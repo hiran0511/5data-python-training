@@ -46,8 +46,9 @@ print()
 def outer_func(num):
    #print("hi")
     def inner_func(a):
-        print("hi")
+        #print("hi")
         return 10 
     return inner_func
+
 
 outer_func(20)
