@@ -1,0 +1,8 @@
+================= Expense Summary (October 2025) =================
+Total Monthly Expense: ₹1650.00
+Category-wise Breakdown:
+  Food : ₹600.00
+  Travel : ₹350.00
+  Shopping : ₹400.00
+  Entertainment : ₹300.00
+Highest Spending Day: 2025-10-02 (₹550.00)
