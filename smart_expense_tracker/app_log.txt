@@ -1,0 +1,2 @@
+2025-11-05 20:58:23 - view_expenses executed in 0.0292s
+2025-11-05 20:58:29 - add_expense executed in 16.2794s
