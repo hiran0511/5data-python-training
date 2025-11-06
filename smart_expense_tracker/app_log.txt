@@ -1,2 +1,10 @@
 2025-11-05 20:58:23 - view_expenses executed in 0.0292s
 2025-11-05 20:58:29 - add_expense executed in 16.2794s
+2025-11-06 13:19:18 - generate_monthly_summary executed in 16.2276s
+2025-11-06 13:19:41 - view_expenses executed in 0.0028s
+2025-11-06 13:19:50 - add_expense executed in 10.7679s
+2025-11-06 13:20:18 - add_expense executed in 54.2517s
+2025-11-06 13:21:19 - view_expenses executed in 0.0234s
+2025-11-06 13:21:22 - generate_monthly_summary executed in 932.5034s
+2025-11-06 14:00:52.734644 - Function 'add_expense' executed in 31.238301s
+2025-11-06 14:26:58.749439 - 'view_expenses' executed in 0.000723s
