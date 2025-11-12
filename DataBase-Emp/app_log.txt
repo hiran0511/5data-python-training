@@ -1,0 +1,9 @@
+2025-11-12 18:45:58.336805 - Function 'create_employee_table' executed in 0.0s
+2025-11-12 18:46:09.365577 - Function 'delete_employee' executed in 0.008997s
+2025-11-12 18:46:25.681536 - Function 'insert_employee' executed in 0.011182s
+2025-11-12 18:46:43.130990 - Function 'insert_employee' executed in 0.011368s
+2025-11-12 18:46:47.382474 - Function 'fetch_employees' executed in 0.0s
+2025-11-12 18:47:10.368992 - Function 'update_employee' executed in 0.014837s
+2025-11-12 18:47:13.154790 - Function 'fetch_employees' executed in 0.0s
+2025-11-12 18:47:25.518330 - Function 'delete_employee' executed in 0.0s
+2025-11-12 18:47:27.164368 - Function 'fetch_employees' executed in 0.0s
