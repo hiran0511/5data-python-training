@@ -1,0 +1,12 @@
+Total Valid Employees: 6
+
+Average Ratings by Department:
+IT: 3.70
+HR: 3.80
+Finance: 4.55
+Sale: 2.90
+
+Top Performer:
+Employee Name: Venkat
+Department: Finance
+Rating: 4.9

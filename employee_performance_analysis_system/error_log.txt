@@ -1,0 +1,8 @@
+Invalid row: "xyz, Missing, Wrong, 5.0" -> EmployeeID is not numeric
+Invalid row: "104, Priya Das, Sales, Five" -> Rating is not a valid float
+Invalid row: "abc, , Sales, 4.0" -> EmployeeID is not numeric
+Invalid row: "" -> Incorrect number of fields
+Invalid row: "xyz, Missing, Wrong, 5.0" -> EmployeeID is not numeric
+Invalid row: "104, Priya Das, Sales, Five" -> Rating is not a valid float
+Invalid row: "abc, , Sales, 4.0" -> EmployeeID is not numeric
+Invalid row: "" -> Incorrect number of fields
